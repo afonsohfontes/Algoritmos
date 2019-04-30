@@ -4,12 +4,6 @@ Este guia irá compor as ferramentas para ensino de Algoritmos e Programação d
 
 Esta página é uma coleção de exercícios progressivamente mais difíceis que são adequados para pessoas que tem interesse em aprender Lógica de Programação. Os exercícios, em sua maioria, são algorítmicos e devem/podem ser solucionados sem o uso de bibliotecas. A dificuldade dos exercícios, claro, depende da linguagem de programação que você usa, como por exemplo C, que não têm suporte integrado à listas. Alguns exemplos serão resolvidos em javaScript.
 
-## Nota dos autores
-Favor responda o questionário antes da leitura do material que se sucede. Não será necessário se identificar, porém responda com sinceridade. Sua resposta possui extrema importância para o desenvolvimento de ferramentas mais completas e voltadas as suas dificuldades.
-
-[Link para a pesquisa](https://forms.gle/fbXVkcyrXpTkoC3F7).
-
-Após o estudo do material haverá uma nova pesquisa para saber sua percepção sobre o mesmo. Para esse estudo são feitas as mesmas considerações referentes ao estudo acima.
 
 ## Começando
 
@@ -447,10 +441,6 @@ seguinte trajeto, cidades: 0, 2, 3, 1 e 4.
 - Calcule e mostre a distância percorrida por um viajante que faça o trajeto lido
 no item anterior.
 
-## Nota dos autores
-Favor responda o questionário após da leitura do material que se sucedeu. Não será necessário se identificar, porém responda com sinceridade. Sua resposta possui extrema importância para o desenvolvimento de ferramentas mais completas e voltadas as suas dificuldades.
-
-[Link para a pesquisa](https://forms.gle/CsjbfTev9xEgyBCh9)
 
 ## Bibliografia
 
